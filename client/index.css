@@ -21,6 +21,8 @@
     max-width: 1000;
 }
 
-#Languages {
-    
+#pdf {
+    position: absolute;
+    right: 20px;
+    top: 10px;
 }
