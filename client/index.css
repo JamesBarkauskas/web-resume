@@ -1,3 +1,26 @@
 #header {
     text-align: center;
 }
+#headerLine {
+    width: 100;
+}
+#headerLine2 {
+    max-width: 100;
+}
+
+#info {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#techQual {
+
+}
+#techQualLine {
+    max-width: 1000;
+}
+
+#Languages {
+    
+}
